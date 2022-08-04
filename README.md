@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Jeff Maina
-Selina Nancy
+  Jeff Maina
+  Selina Nancy
 
 ## License
 Public Domain. No copy write protection. 
